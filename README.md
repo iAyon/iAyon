@@ -8,5 +8,5 @@ Alongside this, I am the organizer of India's First Kaggle Days Meetup in Delhi 
 ## Contact me via
 - Personal Website : https://ayonroy.ml/contact
 - Linkedin : https://www.linkedin.com/in/ayonroy2000/
-- Email : ayonroy2000@pme.me
+- Email : ayonroy2000@pm.me
 
