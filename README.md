@@ -7,6 +7,6 @@ Alongside this, I also started India's First & Largest Kaggle Days Meetup commun
 
 ## Contact me via
 - Personal Website : https://ayonroy.ml/contact
-- Linkedin : https://www.linkedin.com/in/ayonroy2000/
-- Email : ayonroy2000@pm.me
+- Linkedin : https://www.linkedin.com/in/aayoonn
+- Email : aayoonn@gmail.com
 
