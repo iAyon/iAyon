@@ -10,6 +10,6 @@ Alongside this, I also started India's First & Largest Kaggle Days Meetup commun
 
 ## Contact me via
 - [Personal Website](https://ayonroy.ml/contact)
-- [Linkedin](https://www.linkedin.com/in/ayonroy2000)
-- [Email](mailto:ayon.roy2000@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/ayon-roy)
+- [Email](mailto:ayon-roy@outlook.com)
 
